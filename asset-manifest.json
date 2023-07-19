@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f86b05ba.css",
+    "main.js": "/static/js/main.06d1de51.js",
+    "static/media/tablespotter.PNG": "/static/media/tablespotter.44959a63188fe06bc86e.PNG",
+    "static/media/screenshot1.png": "/static/media/screenshot1.0b7d937bb1db4a812bbf.png",
+    "static/media/bobs-home.png": "/static/media/bobs-home.b0d263082684d5d32e89.png",
+    "static/media/resume.pdf": "/static/media/resume.228b95ffdfdca86f1152.pdf",
+    "static/media/github_logo.png": "/static/media/github_logo.ff2648078e819f6a9666.png",
+    "static/media/alfredo-jimenez.jpg": "/static/media/alfredo-jimenez.0c1cc37a8b1001147231.jpg",
+    "index.html": "/index.html",
+    "main.f86b05ba.css.map": "/static/css/main.f86b05ba.css.map",
+    "main.06d1de51.js.map": "/static/js/main.06d1de51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f86b05ba.css",
+    "static/js/main.06d1de51.js"
+  ]
+}
