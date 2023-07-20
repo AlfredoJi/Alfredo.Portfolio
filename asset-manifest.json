@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Alfredo.Portfolio/static/css/main.f86b05ba.css",
+    "main.js": "/Alfredo.Portfolio/static/js/main.8cd3196a.js",
+    "static/media/tablespotter.PNG": "/Alfredo.Portfolio/static/media/tablespotter.44959a63188fe06bc86e.PNG",
+    "static/media/screenshot1.png": "/Alfredo.Portfolio/static/media/screenshot1.0b7d937bb1db4a812bbf.png",
+    "static/media/bobs-home.png": "/Alfredo.Portfolio/static/media/bobs-home.b0d263082684d5d32e89.png",
+    "static/media/resume.pdf": "/Alfredo.Portfolio/static/media/resume.228b95ffdfdca86f1152.pdf",
+    "static/media/github_logo.png": "/Alfredo.Portfolio/static/media/github_logo.ff2648078e819f6a9666.png",
+    "static/media/alfredo-jimenez.jpg": "/Alfredo.Portfolio/static/media/alfredo-jimenez.0c1cc37a8b1001147231.jpg",
+    "index.html": "/Alfredo.Portfolio/index.html",
+    "main.f86b05ba.css.map": "/Alfredo.Portfolio/static/css/main.f86b05ba.css.map",
+    "main.8cd3196a.js.map": "/Alfredo.Portfolio/static/js/main.8cd3196a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f86b05ba.css",
+    "static/js/main.8cd3196a.js"
+  ]
+}
